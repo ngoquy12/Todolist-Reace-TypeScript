@@ -1,0 +1,4 @@
+ReactJS: Oneway binding data: Dữ liệu thay đổi thì giao diện thay đổi theo, tuy nhiên khi có sự tác động từ giao diện
+thì dữ liệu sẽ không bị thay đổi
+
+VueJS: Two way binding data
